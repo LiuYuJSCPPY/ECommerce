@@ -1,0 +1,2 @@
+E:\0_MyDocument\Visual_Studio_2022\Projects\ECommerce\ECommerce\ECommerce.Web\obj\Debug\ECommerce.Web.csproj.AssemblyReference.cache
+E:\0_MyDocument\Visual_Studio_2022\Projects\ECommerce\ECommerce\ECommerce.Web\obj\Debug\ECommerce.Web.csproj.CoreCompileInputs.cache
